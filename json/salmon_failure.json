@@ -1,0 +1,561 @@
+{
+  "other_results": [
+    {
+      "golden_ikura_num": 7,
+      "name": "\u2605\u3074\u3063\u3061\u3083\u3093\u2605",
+      "weapon_list": [
+        {
+          "id": "20020",
+          "weapon": {
+            "thumbnail": "/images/weapon/6d9246d994614a666aca4f24864c69d660b395dd.png",
+            "id": "20020",
+            "name": "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc",
+            "image": "/images/weapon/95077fe72924bcd64f37cd43aa49a12cd6329a7e.png"
+          }
+        },
+        {
+          "weapon": {
+            "image": "/images/weapon/95077fe72924bcd64f37cd43aa49a12cd6329a7e.png",
+            "name": "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc",
+            "thumbnail": "/images/weapon/6d9246d994614a666aca4f24864c69d660b395dd.png",
+            "id": "20020"
+          },
+          "id": "20020"
+        }
+      ],
+      "special_counts": [0, 0],
+      "special": {
+        "image_a": "/images/special/9871c82952ed0141be0310ace1942c9f5f66d655.png",
+        "id": "8",
+        "name": "\u30b8\u30a7\u30c3\u30c8\u30d1\u30c3\u30af",
+        "image_b": "/images/special/26e8117808ce17dadb0f23943359e5909fef4085.png"
+      },
+      "dead_count": 2,
+      "ikura_num": 369,
+      "boss_kill_counts": {
+        "13": {
+          "count": 0,
+          "boss": {
+            "name": "\u30d8\u30d3",
+            "key": "sakelien-snake"
+          }
+        },
+        "12": {
+          "count": 0,
+          "boss": {
+            "key": "sakelien-shield",
+            "name": "\u30c6\u30c3\u30d1\u30f3"
+          }
+        },
+        "16": {
+          "count": 0,
+          "boss": {
+            "name": "\u30b0\u30ea\u30eb",
+            "key": "sakedozer"
+          }
+        },
+        "9": {
+          "boss": {
+            "name": "\u30ab\u30bf\u30d1\u30c3\u30c9",
+            "key": "sakelien-cup-twins"
+          },
+          "count": 0
+        },
+        "21": {
+          "boss": {
+            "key": "sakerocket",
+            "name": "\u30b3\u30a6\u30e2\u30ea"
+          },
+          "count": 0
+        },
+        "3": {
+          "boss": {
+            "name": "\u30ad\u30f3\u30b7\u30e3\u30b1",
+            "key": "sakelien-golden"
+          },
+          "count": 0
+        },
+        "6": {
+          "boss": {
+            "name": "\u30d0\u30af\u30c0\u30f3",
+            "key": "sakelien-bomber"
+          },
+          "count": 1
+        },
+        "15": {
+          "count": 2,
+          "boss": {
+            "name": "\u30e2\u30b0\u30e9",
+            "key": "sakediver"
+          }
+        },
+        "14": {
+          "boss": {
+            "key": "sakelien-tower",
+            "name": "\u30bf\u30ef\u30fc"
+          },
+          "count": 0
+        }
+      },
+      "help_count": 0,
+      "pid": "9e46547a3b9b410a"
+    },
+    {
+      "golden_ikura_num": 3,
+      "name": "\u306f\u305f\u3002",
+      "special_counts": [0, 1],
+      "weapon_list": [
+        {
+          "id": "3020",
+          "weapon": {
+            "image": "/images/weapon/27a026e7dec5a068777bb7883f50451aec799d71.png",
+            "name": "\u30b9\u30af\u30ea\u30e5\u30fc\u30b9\u30ed\u30c3\u30b7\u30e3\u30fc",
+            "id": "3020",
+            "thumbnail": "/images/weapon/e3a38f4e457c8d8d7e5629d7f8508487c6c12746.png"
+          }
+        },
+        {
+          "id": "6010",
+          "weapon": {
+            "image": "/images/weapon/cdb032aa993f4836580ce4edac06de0138833299.png",
+            "thumbnail": "/images/weapon/331b77152310658a25ab934b91cf44e0c4912968.png",
+            "id": "6010",
+            "name": "\u30ad\u30e3\u30f3\u30d4\u30f3\u30b0\u30b7\u30a7\u30eb\u30bf\u30fc"
+          }
+        }
+      ],
+      "special": {
+        "image_b": "/images/special/485b748720bbf809d8b28f9f4ee1a505cbcb339b.png",
+        "image_a": "/images/special/7af300fdd872feb27b3d8e68a969457fac8b3bb7.png",
+        "id": "7",
+        "name": "\u30cf\u30a4\u30d1\u30fc\u30d7\u30ec\u30c3\u30b5\u30fc"
+      },
+      "dead_count": 4,
+      "ikura_num": 114,
+      "boss_kill_counts": {
+        "21": {
+          "count": 0,
+          "boss": {
+            "key": "sakerocket",
+            "name": "\u30b3\u30a6\u30e2\u30ea"
+          }
+        },
+        "6": {
+          "boss": {
+            "name": "\u30d0\u30af\u30c0\u30f3",
+            "key": "sakelien-bomber"
+          },
+          "count": 0
+        },
+        "3": {
+          "boss": {
+            "name": "\u30ad\u30f3\u30b7\u30e3\u30b1",
+            "key": "sakelien-golden"
+          },
+          "count": 0
+        },
+        "15": {
+          "count": 1,
+          "boss": {
+            "name": "\u30e2\u30b0\u30e9",
+            "key": "sakediver"
+          }
+        },
+        "14": {
+          "count": 1,
+          "boss": {
+            "name": "\u30bf\u30ef\u30fc",
+            "key": "sakelien-tower"
+          }
+        },
+        "12": {
+          "count": 0,
+          "boss": {
+            "name": "\u30c6\u30c3\u30d1\u30f3",
+            "key": "sakelien-shield"
+          }
+        },
+        "13": {
+          "count": 0,
+          "boss": {
+            "name": "\u30d8\u30d3",
+            "key": "sakelien-snake"
+          }
+        },
+        "16": {
+          "boss": {
+            "name": "\u30b0\u30ea\u30eb",
+            "key": "sakedozer"
+          },
+          "count": 0
+        },
+        "9": {
+          "boss": {
+            "key": "sakelien-cup-twins",
+            "name": "\u30ab\u30bf\u30d1\u30c3\u30c9"
+          },
+          "count": 0
+        }
+      },
+      "help_count": 1,
+      "pid": "f2759aba52aec9c6"
+    },
+    {
+      "golden_ikura_num": 5,
+      "name": "\u308a\u3093\u3054\u30d1\u30d5\u30a7\u30fb_\u30fb",
+      "help_count": 3,
+      "pid": "0001f7484afae850",
+      "ikura_num": 198,
+      "boss_kill_counts": {
+        "15": {
+          "boss": {
+            "name": "\u30e2\u30b0\u30e9",
+            "key": "sakediver"
+          },
+          "count": 1
+        },
+        "14": {
+          "boss": {
+            "name": "\u30bf\u30ef\u30fc",
+            "key": "sakelien-tower"
+          },
+          "count": 0
+        },
+        "6": {
+          "count": 1,
+          "boss": {
+            "name": "\u30d0\u30af\u30c0\u30f3",
+            "key": "sakelien-bomber"
+          }
+        },
+        "3": {
+          "count": 0,
+          "boss": {
+            "key": "sakelien-golden",
+            "name": "\u30ad\u30f3\u30b7\u30e3\u30b1"
+          }
+        },
+        "21": {
+          "boss": {
+            "name": "\u30b3\u30a6\u30e2\u30ea",
+            "key": "sakerocket"
+          },
+          "count": 0
+        },
+        "9": {
+          "boss": {
+            "name": "\u30ab\u30bf\u30d1\u30c3\u30c9",
+            "key": "sakelien-cup-twins"
+          },
+          "count": 0
+        },
+        "16": {
+          "boss": {
+            "key": "sakedozer",
+            "name": "\u30b0\u30ea\u30eb"
+          },
+          "count": 0
+        },
+        "12": {
+          "boss": {
+            "name": "\u30c6\u30c3\u30d1\u30f3",
+            "key": "sakelien-shield"
+          },
+          "count": 0
+        },
+        "13": {
+          "boss": {
+            "key": "sakelien-snake",
+            "name": "\u30d8\u30d3"
+          },
+          "count": 0
+        }
+      },
+      "dead_count": 3,
+      "weapon_list": [
+        {
+          "id": "5020",
+          "weapon": {
+            "image": "/images/weapon/7d6032f0ceee14c4607385b848c6e486b84a2865.png",
+            "thumbnail": "/images/weapon/7fa3c37a222e3acd2e41cd8c7554a94b27a9f46b.png",
+            "id": "5020",
+            "name": "\u30b1\u30eb\u30d3\u30f3525"
+          }
+        },
+        {
+          "id": "1100",
+          "weapon": {
+            "image": "/images/weapon/1f94c29067c918ac9143b756dc607ff0f8cf4e63.png",
+            "name": "\u30d1\u30d6\u30ed",
+            "id": "1100",
+            "thumbnail": "/images/weapon/e5be617760b68c9a1e3fc778275a6f4a1aedc1e6.png"
+          }
+        }
+      ],
+      "special_counts": [0, 0],
+      "special": {
+        "image_a": "/images/special/18990f646c551ee77c5b283ec814e371f692a553.png",
+        "id": "2",
+        "name": "\u30b9\u30d7\u30e9\u30c3\u30b7\u30e5\u30dc\u30e0\u30d4\u30c3\u30c1\u30e3\u30fc",
+        "image_b": "/images/special/9e89e1d67803c3021203182ecc7f38bc2c0f5400.png"
+      }
+    }
+  ],
+  "grade": {
+    "id": "5",
+    "long_name": "\u305f\u3064\u3058\u3093 \u30d0\u30a4\u30c8\u30ac\u30fc\u30eb",
+    "name": "\u305f\u3064\u3058\u3093"
+  },
+  "job_id": 335,
+  "boss_counts": {
+    "16": {
+      "boss": {
+        "key": "sakedozer",
+        "name": "\u30b0\u30ea\u30eb"
+      },
+      "count": 0
+    },
+    "9": {
+      "count": 3,
+      "boss": {
+        "name": "\u30ab\u30bf\u30d1\u30c3\u30c9",
+        "key": "sakelien-cup-twins"
+      }
+    },
+    "12": {
+      "boss": {
+        "name": "\u30c6\u30c3\u30d1\u30f3",
+        "key": "sakelien-shield"
+      },
+      "count": 0
+    },
+    "13": {
+      "boss": {
+        "key": "sakelien-snake",
+        "name": "\u30d8\u30d3"
+      },
+      "count": 0
+    },
+    "15": {
+      "boss": {
+        "name": "\u30e2\u30b0\u30e9",
+        "key": "sakediver"
+      },
+      "count": 5
+    },
+    "14": {
+      "boss": {
+        "name": "\u30bf\u30ef\u30fc",
+        "key": "sakelien-tower"
+      },
+      "count": 4
+    },
+    "21": {
+      "boss": {
+        "name": "\u30b3\u30a6\u30e2\u30ea",
+        "key": "sakerocket"
+      },
+      "count": 6
+    },
+    "6": {
+      "count": 4,
+      "boss": {
+        "key": "sakelien-bomber",
+        "name": "\u30d0\u30af\u30c0\u30f3"
+      }
+    },
+    "3": {
+      "count": 0,
+      "boss": {
+        "name": "\u30ad\u30f3\u30b7\u30e3\u30b1",
+        "key": "sakelien-golden"
+      }
+    }
+  },
+  "schedule": {
+    "start_time": 1540015200,
+    "stage": {
+      "name": "\u30c8\u30ad\u30b7\u30e9\u30ba\u3044\u3076\u3057\u5de5\u623f",
+      "image": "/images/coop_stage/e9f7c7b35e6d46778cd3cbc0d89bd7e1bc3be493.png"
+    },
+    "weapons": [
+      {
+        "coop_special_weapon": {
+          "name": "\u30e9\u30f3\u30c0\u30e0",
+          "image": "/images/coop_weapons/746f7e90bc151334f0bf0d2a1f0987e311b03736.png"
+        },
+        "id": "-1"
+      },
+      {
+        "coop_special_weapon": {
+          "name": "\u30e9\u30f3\u30c0\u30e0",
+          "image": "/images/coop_weapons/746f7e90bc151334f0bf0d2a1f0987e311b03736.png"
+        },
+        "id": "-1"
+      },
+      {
+        "id": "-1",
+        "coop_special_weapon": {
+          "image": "/images/coop_weapons/746f7e90bc151334f0bf0d2a1f0987e311b03736.png",
+          "name": "\u30e9\u30f3\u30c0\u30e0"
+        }
+      },
+      {
+        "id": "-1",
+        "coop_special_weapon": {
+          "image": "/images/coop_weapons/746f7e90bc151334f0bf0d2a1f0987e311b03736.png",
+          "name": "\u30e9\u30f3\u30c0\u30e0"
+        }
+      }
+    ],
+    "end_time": 1540144800
+  },
+  "my_result": {
+    "dead_count": 1,
+    "weapon_list": [
+      {
+        "weapon": {
+          "image": "/images/weapon/8f64580bb033ba86fa0179179cfeb56b5544fda6.png",
+          "name": "R\u30d6\u30e9\u30b9\u30bf\u30fc\u30a8\u30ea\u30fc\u30c8",
+          "id": "250",
+          "thumbnail": "/images/weapon/91208c6fe9fc4e62e81412d6e772fc696b1a7317.png"
+        },
+        "id": "250"
+      },
+      {
+        "weapon": {
+          "name": "\u30af\u30de\u30b5\u30f3\u5370\u306e\u30c1\u30e3\u30fc\u30b8\u30e3\u30fc",
+          "thumbnail": "/images/weapon/6d9246d994614a666aca4f24864c69d660b395dd.png",
+          "id": "20020",
+          "image": "/images/weapon/95077fe72924bcd64f37cd43aa49a12cd6329a7e.png"
+        },
+        "id": "20020"
+      }
+    ],
+    "special_counts": [0, 2],
+    "special": {
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30c1\u30e3\u30af\u30c1",
+      "image_a": "/images/special/324d41e9582d84101152849bc8c96d6595c9b0ff.png",
+      "id": "9",
+      "image_b": "/images/special/4eb81e00f5d707248879a7c7037d8475716a8045.png"
+    },
+    "help_count": 6,
+    "pid": "4635fbc69de79b4b",
+    "ikura_num": 394,
+    "boss_kill_counts": {
+      "3": {
+        "count": 0,
+        "boss": {
+          "name": "\u30ad\u30f3\u30b7\u30e3\u30b1",
+          "key": "sakelien-golden"
+        }
+      },
+      "6": {
+        "boss": {
+          "name": "\u30d0\u30af\u30c0\u30f3",
+          "key": "sakelien-bomber"
+        },
+        "count": 0
+      },
+      "21": {
+        "count": 2,
+        "boss": {
+          "key": "sakerocket",
+          "name": "\u30b3\u30a6\u30e2\u30ea"
+        }
+      },
+      "15": {
+        "boss": {
+          "key": "sakediver",
+          "name": "\u30e2\u30b0\u30e9"
+        },
+        "count": 0
+      },
+      "14": {
+        "boss": {
+          "key": "sakelien-tower",
+          "name": "\u30bf\u30ef\u30fc"
+        },
+        "count": 1
+      },
+      "13": {
+        "count": 0,
+        "boss": {
+          "key": "sakelien-snake",
+          "name": "\u30d8\u30d3"
+        }
+      },
+      "12": {
+        "boss": {
+          "name": "\u30c6\u30c3\u30d1\u30f3",
+          "key": "sakelien-shield"
+        },
+        "count": 0
+      },
+      "9": {
+        "boss": {
+          "key": "sakelien-cup-twins",
+          "name": "\u30ab\u30bf\u30d1\u30c3\u30c9"
+        },
+        "count": 1
+      },
+      "16": {
+        "count": 0,
+        "boss": {
+          "key": "sakedozer",
+          "name": "\u30b0\u30ea\u30eb"
+        }
+      }
+    },
+    "golden_ikura_num": 10,
+    "name": "\u3075\u304f\u3064\u306e\u30af\u30e9\u30e9"
+  },
+  "player_type": {
+    "style": "girl",
+    "species": "inklings"
+  },
+  "wave_details": [
+    {
+      "golden_ikura_num": 18,
+      "water_level": {
+        "key": "high",
+        "name": "\u6e80\u6f6e"
+      },
+      "ikura_num": 643,
+      "golden_ikura_pop_num": 18,
+      "quota_num": 12,
+      "event_type": {
+        "key": "water-levels",
+        "name": "-"
+      }
+    },
+    {
+      "quota_num": 13,
+      "event_type": {
+        "key": "water-levels",
+        "name": "-"
+      },
+      "golden_ikura_pop_num": 15,
+      "ikura_num": 432,
+      "water_level": {
+        "key": "high",
+        "name": "\u6e80\u6f6e"
+      },
+      "golden_ikura_num": 7
+    }
+  ],
+  "end_time": 1540144800,
+  "grade_point_delta": -10,
+  "grade_point": 80,
+  "job_rate": 210,
+  "danger_rate": 95.4,
+  "job_result": {
+    "is_clear": false,
+    "failure_wave": 2,
+    "failure_reason": "wipe_out"
+  },
+  "play_time": 1540023882,
+  "job_score": 30,
+  "start_time": 1540015200,
+  "kuma_point": 63
+}

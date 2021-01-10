@@ -1,0 +1,280 @@
+{
+  "details": [
+    {
+      "weapons": [
+        {
+          "id": "210",
+          "weapon": {
+            "id": "210",
+            "name": "ホットブラスター",
+            "image": "/images/weapon/cfafc8bc42bcd89058fdb22b7b943fb9f893adb8.png",
+            "thumbnail": "/images/weapon/5e26f6a8217836c25ac0c75f05b13e6051bdc644.png"
+          },
+          "name": "ホットブラスター",
+          "image": "/images/weapon/cfafc8bc42bcd89058fdb22b7b943fb9f893adb8.png",
+          "thumbnail": "/images/weapon/5e26f6a8217836c25ac0c75f05b13e6051bdc644.png"
+        },
+        {
+          "id": "1010",
+          "weapon": {
+            "id": "1010",
+            "image": "/images/weapon/1041dbdd11b3036671148d47c2e0798cecf3dba2.png",
+            "name": "スプラローラー",
+            "thumbnail": "/images/weapon/626210255f99cb22bee1eded39457c51aa9622aa.png"
+          },
+          "image": "/images/weapon/1041dbdd11b3036671148d47c2e0798cecf3dba2.png",
+          "name": "スプラローラー",
+          "thumbnail": "/images/weapon/626210255f99cb22bee1eded39457c51aa9622aa.png"
+        },
+        {
+          "id": "20",
+          "weapon": {
+            "id": "20",
+            "name": "シャープマーカー",
+            "thumbnail": "/images/weapon/be61eacdea2c695d28ec5d60e1a04fafbc384736.png",
+            "image": "/images/weapon/e5a97d52f12a83a037526588363021f2c1f718b0.png"
+          },
+          "name": "シャープマーカー",
+          "thumbnail": "/images/weapon/be61eacdea2c695d28ec5d60e1a04fafbc384736.png",
+          "image": "/images/weapon/e5a97d52f12a83a037526588363021f2c1f718b0.png"
+        },
+        {
+          "id": "2060",
+          "weapon": {
+            "id": "2060",
+            "image": "/images/weapon/26d523e6eee3d57dc6c5f531dfc1747ffd46b8b8.png",
+            "name": "ソイチューバー",
+            "thumbnail": "/images/weapon/6abb5804369429bf96bb32c14d899c4b9da3e431.png"
+          },
+          "image": "/images/weapon/26d523e6eee3d57dc6c5f531dfc1747ffd46b8b8.png",
+          "name": "ソイチューバー",
+          "thumbnail": "/images/weapon/6abb5804369429bf96bb32c14d899c4b9da3e431.png"
+        }
+      ],
+      "start_time": 1569650400,
+      "end_time": 1569801600,
+      "stage": {
+        "name": "海上集落シャケト場",
+        "image": "/images/coop_stage/6d68f5baa75f3a94e5e9bfb89b82e7377e3ecd2c.png",
+        "names": {
+          "ja": "海上集落シャケト場",
+          "en": "Lost Outpost"
+        }
+      }
+    },
+    {
+      "weapons": [
+        {
+          "id": "3000",
+          "weapon": {
+            "id": "3000",
+            "image": "/images/weapon/3963a3fb1ff8038a42072e913587fc6f9aa00d71.png",
+            "thumbnail": "/images/weapon/739b0f54bae840643b470c054808a3740c230a74.png",
+            "name": "バケットスロッシャー"
+          },
+          "image": "/images/weapon/3963a3fb1ff8038a42072e913587fc6f9aa00d71.png",
+          "thumbnail": "/images/weapon/739b0f54bae840643b470c054808a3740c230a74.png",
+          "name": "バケットスロッシャー"
+        },
+        {
+          "id": "3030",
+          "weapon": {
+            "id": "3030",
+            "image": "/images/weapon/2835f6d61a4296b4ac3876337884a0c453a4fa4f.png",
+            "thumbnail": "/images/weapon/e8d17d8b73fc1eaa3e3672c54e8800163d909ede.png",
+            "name": "オーバーフロッシャー"
+          },
+          "image": "/images/weapon/2835f6d61a4296b4ac3876337884a0c453a4fa4f.png",
+          "thumbnail": "/images/weapon/e8d17d8b73fc1eaa3e3672c54e8800163d909ede.png",
+          "name": "オーバーフロッシャー"
+        },
+        {
+          "id": "230",
+          "weapon": {
+            "id": "230",
+            "name": "クラッシュブラスター",
+            "image": "/images/weapon/2b684d81508ca5286060767e29dd81ca38303f43.png",
+            "thumbnail": "/images/weapon/34f78531f33c2952f9522eeb550838070ecde432.png"
+          },
+          "name": "クラッシュブラスター",
+          "image": "/images/weapon/2b684d81508ca5286060767e29dd81ca38303f43.png",
+          "thumbnail": "/images/weapon/34f78531f33c2952f9522eeb550838070ecde432.png"
+        },
+        {
+          "id": "2040",
+          "weapon": {
+            "id": "2040",
+            "name": "4Kスコープ",
+            "thumbnail": "/images/weapon/42e1e9d865f3c0f23d49d05a99783d25d023b89f.png",
+            "image": "/images/weapon/fd4b89e84b375f01290185f2236dbee935dd1682.png"
+          },
+          "name": "4Kスコープ",
+          "thumbnail": "/images/weapon/42e1e9d865f3c0f23d49d05a99783d25d023b89f.png",
+          "image": "/images/weapon/fd4b89e84b375f01290185f2236dbee935dd1682.png"
+        }
+      ],
+      "start_time": 1569823200,
+      "end_time": 1569952800,
+      "stage": {
+        "image": "/images/coop_stage/e07d73b7d9f0c64e552b34a2e6c29b8564c63388.png",
+        "name": "難破船ドン・ブラコ",
+        "names": {
+          "ja": "難破船ドン・ブラコ",
+          "en": "Marooner's Bay"
+        }
+      }
+    }
+  ],
+  "schedules": [
+    {
+      "start_time": 1569650400,
+      "end_time": 1569801600
+    },
+    {
+      "start_time": 1569823200,
+      "end_time": 1569952800
+    },
+    {
+      "start_time": 1569974400,
+      "end_time": 1570104000
+    },
+    {
+      "start_time": 1570125600,
+      "end_time": 1570255200
+    },
+    {
+      "start_time": 1570276800,
+      "end_time": 1570428000
+    }
+  ],
+  "shift": [
+    {
+      "weapons": [
+        {
+          "id": "210",
+          "weapon": {
+            "id": "210",
+            "name": "ホットブラスター",
+            "image": "/images/weapon/cfafc8bc42bcd89058fdb22b7b943fb9f893adb8.png",
+            "thumbnail": "/images/weapon/5e26f6a8217836c25ac0c75f05b13e6051bdc644.png"
+          },
+          "name": "ホットブラスター",
+          "thumbnail": "/images/weapon/cfafc8bc42bcd89058fdb22b7b943fb9f893adb8.png"
+        },
+        {
+          "id": "1010",
+          "weapon": {
+            "id": "1010",
+            "image": "/images/weapon/1041dbdd11b3036671148d47c2e0798cecf3dba2.png",
+            "name": "スプラローラー",
+            "thumbnail": "/images/weapon/626210255f99cb22bee1eded39457c51aa9622aa.png"
+          },
+          "name": "スプラローラー",
+          "thumbnail": "/images/weapon/1041dbdd11b3036671148d47c2e0798cecf3dba2.png"
+        },
+        {
+          "id": "20",
+          "weapon": {
+            "id": "20",
+            "name": "シャープマーカー",
+            "thumbnail": "/images/weapon/be61eacdea2c695d28ec5d60e1a04fafbc384736.png",
+            "image": "/images/weapon/e5a97d52f12a83a037526588363021f2c1f718b0.png"
+          },
+          "name": "シャープマーカー",
+          "thumbnail": "/images/weapon/e5a97d52f12a83a037526588363021f2c1f718b0.png"
+        },
+        {
+          "id": "2060",
+          "weapon": {
+            "id": "2060",
+            "image": "/images/weapon/26d523e6eee3d57dc6c5f531dfc1747ffd46b8b8.png",
+            "name": "ソイチューバー",
+            "thumbnail": "/images/weapon/6abb5804369429bf96bb32c14d899c4b9da3e431.png"
+          },
+          "name": "ソイチューバー",
+          "thumbnail": "/images/weapon/26d523e6eee3d57dc6c5f531dfc1747ffd46b8b8.png"
+        }
+      ],
+      "start_time": 1569650400,
+      "end_time": 1569801600,
+      "stage": {
+        "name": "海上集落シャケト場",
+        "image": "https://app.splatoon2.nintendo.net/images/coop_stage/6d68f5baa75f3a94e5e9bfb89b82e7377e3ecd2c.png",
+        "names": {
+          "ja": "海上集落シャケト場",
+          "en": "Lost Outpost"
+        }
+      }
+    },
+    {
+      "weapons": [
+        {
+          "id": "3000",
+          "weapon": {
+            "id": "3000",
+            "image": "/images/weapon/3963a3fb1ff8038a42072e913587fc6f9aa00d71.png",
+            "thumbnail": "/images/weapon/739b0f54bae840643b470c054808a3740c230a74.png",
+            "name": "バケットスロッシャー"
+          },
+          "name": "バケットスロッシャー",
+          "thumbnail": "/images/weapon/3963a3fb1ff8038a42072e913587fc6f9aa00d71.png"
+        },
+        {
+          "id": "3030",
+          "weapon": {
+            "id": "3030",
+            "image": "/images/weapon/2835f6d61a4296b4ac3876337884a0c453a4fa4f.png",
+            "thumbnail": "/images/weapon/e8d17d8b73fc1eaa3e3672c54e8800163d909ede.png",
+            "name": "オーバーフロッシャー"
+          },
+          "name": "オーバーフロッシャー",
+          "thumbnail": "/images/weapon/2835f6d61a4296b4ac3876337884a0c453a4fa4f.png"
+        },
+        {
+          "id": "230",
+          "weapon": {
+            "id": "230",
+            "name": "クラッシュブラスター",
+            "image": "/images/weapon/2b684d81508ca5286060767e29dd81ca38303f43.png",
+            "thumbnail": "/images/weapon/34f78531f33c2952f9522eeb550838070ecde432.png"
+          },
+          "name": "クラッシュブラスター",
+          "thumbnail": "/images/weapon/2b684d81508ca5286060767e29dd81ca38303f43.png"
+        },
+        {
+          "id": "2040",
+          "weapon": {
+            "id": "2040",
+            "name": "4Kスコープ",
+            "thumbnail": "/images/weapon/42e1e9d865f3c0f23d49d05a99783d25d023b89f.png",
+            "image": "/images/weapon/fd4b89e84b375f01290185f2236dbee935dd1682.png"
+          },
+          "name": "4Kスコープ",
+          "thumbnail": "/images/weapon/fd4b89e84b375f01290185f2236dbee935dd1682.png"
+        }
+      ],
+      "start_time": 1569823200,
+      "end_time": 1569952800,
+      "stage": {
+        "image": "https://app.splatoon2.nintendo.net/images/coop_stage/e07d73b7d9f0c64e552b34a2e6c29b8564c63388.png",
+        "name": "難破船ドン・ブラコ",
+        "names": {
+          "ja": "難破船ドン・ブラコ",
+          "en": "Marooner's Bay"
+        }
+      }
+    },
+    {
+      "start_time": 1569974400,
+      "end_time": 1570104000
+    },
+    {
+      "start_time": 1570125600,
+      "end_time": 1570255200
+    },
+    {
+      "start_time": 1570276800,
+      "end_time": 1570428000
+    }
+  ]
+}
